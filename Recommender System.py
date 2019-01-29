@@ -16,9 +16,6 @@ ratings = pd.read_csv('ratings_final.csv', index_col = 0) # replace with full le
 # read in.
 userRatings = pd.read_csv('userrating_final.csv', index_col = 0)
 
-# from sklearn.cross_validation import train_test_split
-# train_data, test_data = train_test_split(ratings, test_size=0.2)
-
 # Find the average rating and how many ratings there were for each show
 ratings = pd.DataFrame(userRatings.mean(), columns = ['mean'])
 ratings['num of ratings'] = userRatings.count()
