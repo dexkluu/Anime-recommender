@@ -12,6 +12,8 @@ import numpy as np
 # info = pd.read_csv('anime_info.csv')
 ratings = pd.read_csv('ratings_final.csv', index_col = 0) # replace with full length csv file with all user score data (did in parts)
 # userRatings = ratings.pivot_table(index = ['user'], columns = ['titles'], values = 'value')
+# The above command will pivot the ratings data. Because this takes some time, it was done once and the csv file was saved. Below, it
+# read in.
 userRatings = pd.read_csv('userrating_final.csv', index_col = 0)
 
 # from sklearn.cross_validation import train_test_split
