@@ -4,6 +4,8 @@ Created on Wed Sep  5 22:47:27 2018
 
 @author: dluu1
 """
+# This script scrapes as much user rating data from the myanimelist.net webpages. The website shows ratings for up to 7500 users
+# for each show. The urls for the shows are scraped using the URL_table.py file.
 
 import pandas as pd
 from bs4 import BeautifulSoup
