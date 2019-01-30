@@ -1,0 +1,951 @@
+,item_id,titles
+0,0,Death Note
+1,1,Shingeki no Kyojin
+2,2,Sword Art Online
+3,3,Fullmetal Alchemist: Brotherhood
+4,4,One Punch Man
+5,5,Tokyo Ghoul
+6,6,Steins;Gate
+7,7,Angel Beats!
+8,8,Code Geass: Hangyaku no Lelouch
+9,9,Naruto
+10,10,No Game No Life
+11,11,Mirai Nikki (TV)
+12,12,Toradora!
+13,13,Ao no Exorcist
+14,14,Noragami
+15,15,Sword Art Online II
+16,16,Elfen Lied
+17,17,Fairy Tail
+18,18,Bleach
+19,19,Boku no Hero Academia
+20,20,Naruto: Shippuuden
+21,21,Tengen Toppa Gurren Lagann
+22,22,Code Geass: Hangyaku no Lelouch R2
+23,23,Soul Eater
+24,24,Fullmetal Alchemist
+25,25,Akame ga Kill!
+26,26,Another
+27,27,Kill la Kill
+28,28,Kimi no Na wa.
+29,29,Psycho-Pass
+30,30,Durarara!!
+31,31,Clannad
+32,32,Re:Zero kara Hajimeru Isekai Seikatsu
+33,33,Highschool of the Dead
+34,34,Hunter x Hunter (2011)
+35,35,Shigatsu wa Kimi no Uso
+36,36,One Piece
+37,37,Cowboy Bebop
+38,38,Boku dake ga Inai Machi
+39,39,Sen to Chihiro no Kamikakushi
+40,40,Tokyo Ghoul âA
+41,41,Kiseijuu: Sei no Kakuritsu
+42,42,Shingeki no Kyojin Season 2
+43,43,Fate/Zero
+44,44,Bakemonogatari
+45,45,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai.
+46,46,Death Parade
+47,47,Nanatsu no Taizai
+48,48,Neon Genesis Evangelion
+49,49,Guilty Crown
+50,50,Mahou Shoujo MadokaâMagica
+51,51,Hataraku Maou-sama!
+52,52,Boku no Hero Academia 2nd Season
+53,53,Deadman Wonderland
+54,54,Shokugeki no Souma
+55,55,Clannad: After Story
+56,56,Kono Subarashii Sekai ni Shukufuku wo!
+57,57,High School DxD
+58,58,Ansatsu Kyoushitsu
+59,59,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka
+60,60,Chuunibyou demo Koi ga Shitai!
+61,61,Kuroshitsuji
+62,62,"Darker than Black: Kuro no Keiyakusha  TV (25 eps)  Apr 2007 - Sep 2007  577,841 members"
+63,63,Sakurasou no Pet na Kanojo
+64,64,Log Horizon
+65,65,Noragami Aragoto
+66,66,Samurai Champloo
+67,67,Charlotte
+68,68,Koe no Katachi
+69,69,Suzumiya Haruhi no Yuuutsu
+70,70,Dragon Ball Z
+71,71,Hyouka
+72,72,Ouran Koukou Host Club
+73,73,Kaichou wa Maid-sama!
+74,74,Yahari Ore no Seishun Love Comedy wa Machigatteiru.
+75,75,Kyoukai no Kanata
+76,76,Zankyou no Terror
+77,77,Nisekoi
+78,78,Mononoke Hime
+79,79,Owari no Seraph
+80,80,Mob Psycho 100
+81,81,Fate/Zero 2nd Season
+82,82,Overlord
+83,83,"K-On!  TV (13 eps)  Apr 2009 - Jun 2009  516,874 members"
+84,84,Fate/stay night
+85,85,Haikyuu!!
+86,86,Kuroko no Basket
+87,87,Howl no Ugoku Shiro
+88,88,Baccano!
+89,89,Tonari no Kaibutsu-kun
+90,90,Magi: The Labyrinth of Magic
+91,91,Black Bullet
+92,92,Btooom!
+93,93,Gintama
+94,94,Zero no Tsukaima
+95,95,Byousoku 5 Centimeter
+96,96,Higurashi no Naku Koro ni
+97,97,Black Lagoon
+98,98,Dragon Ball
+99,99,Ookami to Koushinryou
+100,100,Boku wa Tomodachi ga Sukunai
+101,101,Mahouka Koukou no Rettousei
+102,102,Kono Subarashii Sekai ni Shukufuku wo! 2
+103,103,Date A Live
+104,104,Accel World
+105,105,Hellsing Ultimate
+106,106,Fate/stay night: Unlimited Blade Works
+107,107,Danganronpa: Kibou no Gakuen to Zetsubou no Koukousei The Animation
+108,108,Gekkan Shoujo Nozaki-kun
+109,109,D.Gray-man
+110,110,Kimi ni Todoke
+111,111,Ore no Imouto ga Konnani Kawaii Wake ga Nai
+112,112,Shinsekai yori
+113,113,Toki wo Kakeru Shoujo
+114,114,FLCL
+115,115,Tonari no Totoro
+116,116,Mushishi
+117,117,Toaru Majutsu no Index
+118,118,Fairy Tail (2014)
+119,119,Shokugeki no Souma: Ni no Sara
+120,120,ReLIFE
+121,121,High School DxD New
+122,122,Golden Time
+123,123,Claymore
+124,124,Kokoro Connect
+125,125,K
+126,126,Ansatsu Kyoushitsu 2nd Season
+127,127,Hellsing
+128,128,Prison School
+129,129,Koutetsujou no Kabaneri
+130,130,Baka to Test to Shoukanjuu
+131,131,Kore wa Zombie Desu ka?
+132,132,NHK ni Youkoso!
+133,133,Nichijou
+134,134,Rosario to Vampire
+135,135,Violet Evergarden
+136,136,Boku no Hero Academia 3rd Season
+137,137,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri"
+138,138,LuckyâStar
+139,139,Danshi Koukousei no Nichijou
+140,140,Kekkai Sensen
+141,141,Magi: The Kingdom of Magic
+142,142,Trigun
+143,143,InuYasha
+144,144,Nisemonogatari
+145,145,Kami nomi zo Shiru Sekai
+146,146,Ookami Kodomo no Ame to Yuki
+147,147,Kobayashi-san Chi no Maid Dragon
+148,148,Great Teacher Onizuka
+149,149,Yahari Ore no Seishun Love Comedy wa Machigatteiru. Zoku
+150,150,School Days
+151,151,Shakugan no Shana
+152,152,Made in Abyss
+153,153,Watashi ga Motenai no wa Dou Kangaetemo Omaera ga Warui!
+154,154,Monster
+155,155,Free!
+156,156,Plastic Memories
+157,157,Kuroko no Basket 2nd Season
+158,158,Bungou Stray Dogs
+159,159,JoJo no Kimyou na Bouken (TV)
+160,160,Darling in the FranXX
+161,161,Trinity Seven
+162,162,Vampire Knight
+163,163,Mahoutsukai no Yome
+164,164,Hai to Gensou no Grimgar
+165,165,Rakudai Kishi no Cavalry
+166,166,Zetsuen no Tempest
+167,167,Higashi no Eden
+168,168,Akatsuki no Yona
+169,169,Haikyuu!! Second Season
+170,170,Blood Lad
+171,171,Ergo Proxy
+172,172,Fate/stay night: Unlimited Blade Works 2nd Season
+173,173,IS: Infinite Stratos
+174,174,Ao Haru Ride
+175,175,Bakuman.
+176,176,Ghost in the Shell
+177,177,Barakamon
+178,178,Katekyo Hitman Reborn!
+179,179,Shiki
+180,180,Kiznaiver
+181,181,Strike the Blood
+182,182,Psycho-Pass 2
+183,183,Suzumiya Haruhi no Shoushitsu
+184,184,High School DxD BorN
+185,185,To LOVE-Ru
+186,186,Rokka no Yuusha
+187,187,Yamada-kun to 7-nin no Majo
+188,188,K-On!!
+189,189,Aldnoah.Zero
+190,190,Kotonoha no Niwa
+191,191,Shimoneta to Iu Gainen ga Sonzai Shinai Taikutsu na Sekai
+192,192,Full Metal Panic!
+193,193,Hotarubi no Mori e
+194,194,Amagi Brilliant Park
+195,195,Akira
+196,196,Nagi no Asukara
+197,197,Chobits
+198,198,Sukitte Ii na yo.
+199,199,Log Horizon 2nd Season
+200,200,Mondaiji-tachi ga Isekai kara Kuru Sou Desu yo?
+201,201,Owari no Seraph: Nagoya Kessen-hen
+202,202,Monogatari Series: Second Season
+203,203,Gosick
+204,204,Sankarea
+205,205,Suzumiya Haruhi no Yuuutsu (2009)
+206,206,Dragon Ball GT
+207,207,Eureka Seven
+208,208,Chuunibyou demo Koi ga Shitai! Ren
+209,209,Zero no Tsukaima: Futatsuki no Kishi
+210,210,Monster Musume no Iru Nichijou
+211,211,Beelzebub
+212,212,Masamune-kun no Revenge
+213,213,LovelyâComplex
+214,214,Sakamoto desu ga?
+215,215,Neon Genesis Evangelion: The End of Evangelion
+216,216,"Kenpuu Denki Berserk  TV (25 eps)  Oct 1997 - Apr 1998  310,169 members"
+217,217,Summer Wars
+218,218,Ore Monogatari!!
+219,219,Kuroshitsuji II
+220,220,"Pokemon  TV (276 eps)  Apr 1997 - Nov 2002  307,109 members"
+221,221,Serial Experiments Lain
+222,222,Toaru Kagaku no Railgun
+223,223,Kiss x Sis (TV)
+224,224,Sora no Otoshimono
+225,225,Boku wa Tomodachi ga Sukunai Next
+226,226,Kuroko no Basket 3rd Season
+227,227,Orange
+228,228,"Fruits Basket  TV (26 eps)  Jul 2001 - Dec 2001  298,872 members"
+229,229,Kakegurui
+230,230,Katanagatari
+231,231,Gangsta.
+232,232,Steins;Gate Movie: Fuka Ryouiki no DÃ©jÃ vu
+233,233,Nisekoi:
+234,234,Natsume Yuujinchou
+235,235,Yuri!!! on Ice
+236,236,Inu x Boku SS
+237,237,Seitokai Yakuindomo
+238,238,God Eater
+239,239,Ajin
+240,240,Shinmai Maou no Testament
+241,241,Pandora Hearts
+242,242,Gakusen Toshi Asterisk
+243,243,Himouto! Umaru-chan
+244,244,Grisaia no Kajitsu
+245,245,YuuâYuuâHakusho
+246,246,Ookami to Koushinryou II
+247,247,Rurouni Kenshin: Meiji Kenkaku Romantan
+248,248,Ao no Exorcist: Kyoto Fujouou-hen
+249,249,Ichiban Ushiro no Daimaou
+250,250,Date A Live II
+251,251,Zero no Tsukaima: Princesses no Rondo
+252,252,Darker than Black: Ryuusei no Gemini
+253,253,Higurashi no Naku Koro ni Kai
+254,254,Usagi Drop
+255,255,Shokugeki no Souma: San no Sara
+256,256,Kaze no Stigma
+257,257,Hentai Ouji to Warawanai Neko.
+258,258,Steins;Gate 0
+259,259,Mekakucity Actors
+260,260,Kamisama Hajimemashita
+261,261,Youjo Senki
+262,262,Saenai Heroine no Sodatekata
+263,263,Tokyo Ghoul:re
+264,264,Mayo Chiki!
+265,265,Shingeki no Kyojin Season 3
+266,266,Absolute Duo
+267,267,Eromanga-sensei
+268,268,Haikyuu!!: Karasuno Koukou VS Shiratorizawa Gakuen Koukou
+269,269,Durarara!!x2 Shou
+270,270,Nana
+271,271,Black Lagoon: The Second Barrage
+272,272,Overlord II
+273,273,91 Days
+274,274,Akagami no Shirayuki-hime
+275,275,Ore no Imouto ga Konnani Kawaii Wake ga Nai.
+276,276,Dragon Ball Super
+277,277,Nekomonogatari: Kuro
+278,278,Musaigen no Phantom World
+279,279,Nanatsu no Taizai: Imashime no Fukkatsu
+280,280,Kuzu no Honkai
+281,281,"Gate: Jieitai Kanochi nite, Kaku Tatakaeri 2nd Season"
+282,282,Rosario to Vampire Capu2
+283,283,Rokudenashi Majutsu Koushi to Akashic Records
+284,284,Working!!
+285,285,Ghost in the Shell: Stand Alone Complex
+286,286,No Game No Life: Zero
+287,287,Hotaru no Haka
+288,288,Evangelion: 1.0 You Are (Not) Alone
+289,289,Blood+
+290,290,One Punch Man 2
+291,291,Tokyo Ravens
+292,292,Little Witch Academia (TV)
+293,293,Black Clover
+294,294,Drifters
+295,295,B-gata H-kei
+296,296,BlackâRock Shooter (TV)
+297,297,Tsurezure Children
+298,298,Kami nomi zo Shiru Sekai II
+299,299,"Ore no Nounai Sentakushi ga, Gakuen Love Comedy wo Zenryoku de Jama Shiteiru"
+300,300,Sword Art Online Movie: Ordinal Scale
+301,301,Sekirei
+302,302,Gamers!
+303,303,Cardcaptor Sakura
+304,304,Toaru Majutsu no Index II
+305,305,Evangelion: 2.0 You Can (Not) Advance
+306,306,"Yosuga no Sora: In Solitude, Where We Are Least Alone."
+307,307,Kore wa Zombie Desu ka? of the Dead
+308,308,Love Live! School Idol Project
+309,309,JoJo no Kimyou na Bouken: Stardust Crusaders
+310,310,Zero no Tsukaima F
+311,311,"Dakara Boku wa, H ga Dekinai."
+312,312,Netoge no Yome wa Onnanoko ja Nai to Omotta?
+313,313,Shingeki no Bahamut: Genesis
+314,314,Baka to Test to Shoukanjuu Ni!
+315,315,Ore no Kanojo to Osananajimi ga Shuraba Sugiru
+316,316,Air Gear
+317,317,Paprika
+318,318,Vampire Knight: Guilty
+319,319,Digimon Adventure
+320,320,Hajime no Ippo
+321,321,"Hunter x Hunter  TV (62 eps)  Oct 1999 - Mar 2001  238,575 members  Manga Store  Volume 1  $6.99 Preview"
+322,322,Kara no Kyoukai 1: Fukan Fuukei
+323,323,Maoyuu Maou Yuusha
+324,324,Shirobako
+325,325,Boruto: Naruto Next Generations
+326,326,Youkoso Jitsuryoku Shijou Shugi no Kyoushitsu e
+327,327,Tasogare Otome x Amnesia
+328,328,Steins;Gate: Oukoubakko no Poriomania
+329,329,Sousei no Onmyouji
+330,330,Hidan no Aria
+331,331,Kimi ni Todoke 2nd Season
+332,332,Hitsugi no Chaika
+333,333,Dagashi Kashi
+334,334,Re:Creators
+335,335,No.6
+336,336,D-Frag!
+337,337,Fullmetal Alchemist: The Conqueror of Shamballa
+338,338,Ano Natsu de Matteru
+339,339,Hagure Yuusha no Aesthetica
+340,340,Jigoku Shoujo
+341,341,Shakugan no Shana II (Second)
+342,342,Majo no Takkyuubin
+343,343,Gintama'
+344,344,Suisei no Gargantia
+345,345,Gakkougurashi!
+346,346,Special A
+347,347,Bokura wa Minna Kawai-sou
+348,348,Chihayafuru
+349,349,"Shaman King  TV (64 eps)  Jul 2001 - Sep 2002  221,051 members"
+350,350,Arslan Senki (TV)
+351,351,ChÃ¤oS;HEAd
+352,352,School Rumble
+353,353,Air
+354,354,"Sayonara Zetsubou Sensei  TV (12 eps)  Jul 2007 - Sep 2007  218,929 members  Manga Store  Volume 1  $10.99 Preview"
+355,355,Ookami Shoujo to Kuro Ouji
+356,356,Inuyashiki
+357,357,"Gantz  TV (13 eps)  Apr 2004 - Jun 2004  217,468 members"
+358,358,Arakawa Under the Bridge
+359,359,Inou-Battle wa Nichijou-kei no Naka de
+360,360,Gokukoku no Brynhildr
+361,361,Bungou Stray Dogs 2nd Season
+362,362,Wolf's Rain
+363,363,Campione!: Matsurowanu Kamigami to Kamigoroshi no Maou
+364,364,Panty & Stocking with Garterbelt
+365,365,Tenkuu no Shiro Laputa
+366,366,Hibike! Euphonium
+367,367,Haiyore! Nyaruko-san
+368,368,Devilman: Crybaby
+369,369,New Game!
+370,370,3-gatsu no Lion
+371,371,GintamaÂ°
+372,372,Amagami SS
+373,373,Full Metal Panic? Fumoffu
+374,374,Seto no Hanayome
+375,375,Freezing
+376,376,IS: Infinite Stratos 2
+377,377,Bakuman. 2nd Season
+378,378,Azumanga Daioh
+379,379,Gake no Ue no Ponyo
+380,380,Phantom: Requiem for the Phantom
+381,381,Devil May Cry
+382,382,Free!: Eternal Summer
+383,383,JoJo no Kimyou na Bouken: Stardust Crusaders 2nd Season
+384,384,Yuru Yuri
+385,385,Kizumonogatari I: Tekketsu-hen
+386,386,Aldnoah.Zero 2nd Season
+387,387,Rainbow: Nisha Rokubou no Shichinin
+388,388,Durarara!!x2 Ten
+389,389,Owarimonogatari
+390,390,"Nodame Cantabile  TV (23 eps)  Jan 2007 - Jun 2007  204,142 members  Manga Store  Volume 1  $10.99 Preview"
+391,391,Blend S
+392,392,Net-juu no Susume
+393,393,Hanasaku Iroha
+394,394,Ben-To
+395,395,C: The Money of Soul and Possibility Control
+396,396,Hanamonogatari
+397,397,Non Non Biyori
+398,398,Sakamichi no Apollon
+399,399,JoJo no Kimyou na Bouken: Diamond wa Kudakenai
+400,400,"Clannad: Mou Hitotsu no Sekai, Tomoyo-hen"
+401,401,Mikakunin de Shinkoukei
+402,402,Mirai Nikki: Redial
+403,403,Seikon no Qwaser
+404,404,Kami nomi zo Shiru Sekai: Megami-hen
+405,405,Mahou Shoujo MadokaâMagica Movie 3: Hangyaku no Monogatari
+406,406,Mawaru Penguindrum
+407,407,To LOVE-Ru Darkness
+408,408,Shuffle!
+409,409,Denpa Onna to Seishun Otoko
+410,410,Outbreak Company
+411,411,Kaze no Tani no NausicaÃ¤
+412,412,Nanatsu no Taizai: Seisen no Shirushi
+413,413,Demi-chan wa Kataritai
+414,414,Machine-Doll wa Kizutsukanai
+415,415,Kanon (2006)
+416,416,Yojouhan Shinwa Taikei
+417,417,Sword Art Online Alternative: Gun Gale Online
+418,418,Sora no Otoshimono: Forte
+419,419,Seireitsukai no Blade Dance
+420,420,Perfect Blue
+421,421,Little Witch Academia
+422,422,Isshuukan Friends.
+423,423,Grisaia no Rakuen
+424,424,YuâGiâOh! Duel Monsters
+425,425,"Mousou Dairinin  TV (13 eps)  Feb 2004 - May 2004  190,780 members"
+426,426,Durarara!!x2 Ketsu
+427,427,Jormungand
+428,428,Beck
+429,429,Corpse Party: Tortured Souls - Bougyakusareta Tamashii no Jukyou
+430,430,Full Metal Panic! The Second Raid
+431,431,Tsukimonogatari
+432,432,xxxHOLiC
+433,433,"Bakuman. 3rd Season  TV (25 eps)  Oct 2012 - Mar 2013  189,372 members"
+434,434,Gabriel DropOut
+435,435,Dimension W
+436,436,Bishoujo Senshi Sailor Moon
+437,437,Ookami-san to Shichinin no Nakama-tachi
+438,438,Fate/Apocrypha
+439,439,Danna ga Nani wo Itteiru ka Wakaranai Ken
+440,440,Tales of Zestiria the X
+441,441,Cowboy Bebop: Tengoku no Tobira
+442,442,Love Hina
+443,443,Keijo!!!!!!!!
+444,444,Black Cat
+445,445,Code:Breaker
+446,446,Toaru Kagaku no Railgun S
+447,447,KÃ¤mpfer
+448,448,Motto To LOVE-Ru
+449,449,Gakusen Toshi Asterisk 2nd Season
+450,450,Kuroshitsuji: Book of Circus
+451,451,Tsuki ga Kirei
+452,452,Shokugeki no Souma: San no Sara - Toutsuki Ressha-hen
+453,453,Hamatora The Animation
+454,454,ef: A Tale of Memories.
+455,455,Oda Nobuna no Yabou
+456,456,Evangelion: 3.0 You Can (Not) Redo
+457,457,"Shingeki no Kyojin OVA  OVA (3 eps)  Dec 2013 - Aug 2014  183,638 members"
+458,458,Densetsu no Yuusha no Densetsu
+459,459,Tamako Market
+460,460,Afro Samurai
+461,461,Acchi Kocchi (TV)
+462,462,"Highschool of the Dead: Drifters of the Dead  OVA (1 eps)  Apr 2011 - Apr 2011  181,362 members"
+463,463,Kotoura-san
+464,464,Stranger: Mukou Hadan
+465,465,Madan no Ou to Vanadis
+466,466,Little Busters!
+467,467,Bleach Movie 1: Memories of Nobody
+468,468,Nyan Koi!
+469,469,SpaceâDandy
+470,470,Wotaku ni Koi wa Muzukashii
+471,471,Kiss x Sis
+472,472,Bakemono no Ko
+473,473,Tanaka-kun wa Itsumo Kedaruge
+474,474,Hetalia Axis Powers
+475,475,Aho Girl
+476,476,Amnesia
+477,477,Boruto: Naruto the Movie
+478,478,Angel Beats! Specials
+479,479,K: Return of Kings
+480,480,Citrus
+481,481,Ga-Rei: Zero
+482,482,Itazura na Kiss
+483,483,Shijou Saikyou no Deshi Kenichi
+484,484,Darker than Black: Kuro no Keiyakusha Gaiden
+485,485,Akuma no Riddle
+486,486,Hajimete no Gal
+487,487,"Rurouni Kenshin: Meiji Kenkaku Romantan - Tsuioku-hen  OVA (4 eps)  Feb 1999 - Sep 1999  172,148 members  Manga Store  Volume 1  $6.99 Preview"
+488,488,Persona 4 the Animation
+489,489,Sword Art Online: Extra Edition
+490,490,Saiki Kusuo no Î¨-nan
+491,491,"Clannad: After Story - Mou Hitotsu no Sekai, Kyou-hen  Special (1 eps)  Jul 2009 - Jul 2009  170,330 members"
+492,492,Shingeki no Kyojin: Kuinaki Sentaku
+493,493,Skip Beat!
+494,494,11eyes
+495,495,Chrno Crusade
+496,496,Blood-C
+497,497,Magi: Sinbad no Bouken (TV)
+498,498,Yuusha ni Narenakatta Ore wa Shibushibu Shuushoku wo Ketsui Shimashita.
+499,499,Shelter
+500,500,Tokyo Magnitude 8.0
+501,501,"Angel Beats!: Another Epilogue  Special (1 eps)  Dec 2010 - Dec 2010  166,930 members"
+502,502,Dragon Ball Kai
+503,503,Shinmai Maou no Testament Burst
+504,504,Saijaku Muhai no Bahamut
+505,505,Shakugan no Shana III (Final)
+506,506,Maji de Watashi ni Koi Shinasai!
+507,507,Nurarihyon no Mago
+508,508,Hachimitsu to Clover
+509,509,Kamisama no Memochou
+510,510,Hundred
+511,511,The Last: Naruto the Movie
+512,512,Death March kara Hajimaru Isekai Kyousoukyoku
+513,513,Redline
+514,514,Gin no Saji
+515,515,Nejimaki Seirei Senki: Tenkyou no Alderamin
+516,516,Oniichan dakedo Ai sae Areba Kankeinai yo ne!
+517,517,MM!
+518,518,"Noragami OVA  OVA (2 eps)  Feb 2014 - Jul 2014  163,141 members  Manga Store  Volume 1  $10.99 Preview"
+519,519,Isekai wa Smartphone to Tomo ni.
+520,520,Dungeon ni Deai wo Motomeru no wa Machigatteiru Darou ka Gaiden: Sword Oratoria
+521,521,Kekkai Sensen & Beyond
+522,522,Final Fantasy VII: Advent Children
+523,523,Shuumatsu Nani Shitemasu ka? Isogashii desu ka? Sukutte Moratte Ii desu ka?
+524,524,Tsubasa Chronicle
+525,525,Detective Conan
+526,526,"Golden Boy  OVA (6 eps)  Oct 1995 - Jun 1996  161,697 members"
+527,527,Working'!!
+528,528,Bleach Movie 2: The DiamondDust Rebellion - Mou Hitotsu no Hyourinmaru
+529,529,Renai Boukun
+530,530,Fate/stay night: Unlimited Blade Works - Prologue
+531,531,Kanokon
+532,532,Mangaka-san to Assistant-san to The Animation
+533,533,Sidonia no Kishi
+534,534,Taimadou Gakuen 35 Shiken Shoutai
+535,535,Koi to Uso
+536,536,Amaama to Inazuma
+537,537,Mahoutsukai no Yome: Hoshi Matsu Hito
+538,538,Omamori Himari
+539,539,World Trigger
+540,540,Hayate no Gotoku!
+541,541,Haibane Renmei
+542,542,Berserk
+543,543,Quanzhi Gaoshou
+544,544,K-On! Movie
+545,545,Seiken Tsukai no World Break
+546,546,Megalo Box
+547,547,Gyakkyou Burai Kaiji: Ultimate Survivor
+548,548,"Bokura ga Ita  TV (26 eps)  Jul 2006 - Dec 2006  156,122 members"
+549,549,Ghost Hunt
+550,550,Kamisama no Inai Nichiyoubi
+551,551,Ping Pong The Animation
+552,552,Diabolik Lovers
+553,553,Binbougami ga!
+554,554,Mayoiga
+555,555,Ghost in the Shell: Stand Alone Complex 2nd GIG
+556,556,Juuni Taisen
+557,557,Girls & Panzer
+558,558,Dance in the Vampire Bund
+559,559,Soredemo Sekai wa Utsukushii
+560,560,"Naruto Movie 1: Dai Katsugeki!! Yuki Hime Shinobu Houjou Dattebayo!  Movie (1 eps)  Aug 2004 - Aug 2004  152,849 members"
+561,561,Taboo Tattoo
+562,562,"Kino no Tabi: The Beautiful World  TV (13 eps)  Apr 2003 - Jul 2003  152,663 members"
+563,563,Canaan
+564,564,Umineko no Naku Koro ni
+565,565,Mushishi Zoku Shou
+566,566,Medaka Box
+567,567,Witch Craft Works
+568,568,Zoku Natsume Yuujinchou
+569,569,Sakura Trick
+570,570,Flying Witch
+571,571,07-Ghost
+572,572,Sekirei: Pure Engagement
+573,573,Rozen Maiden
+574,574,"One Punch Man: Road to Hero  OVA (1 eps)  Dec 2015 - Dec 2015  150,647 members"
+575,575,"Mirai Nikki  OVA (1 eps)  Dec 2010 - Dec 2010  150,637 members"
+576,576,Fate/kaleid liner PrismaâIllya
+577,577,Ao no Exorcist Movie
+578,578,Danganronpa 3: The End of Kibougamine Gakuen - Mirai-hen
+579,579,Watashi ga Motete Dousunda
+580,580,Digimon Adventure 02
+581,581,Junjou Romantica
+582,582,Maken-Ki!
+583,583,Kizumonogatari II: Nekketsu-hen
+584,584,Karakai Jouzu no Takagi-san
+585,585,Shouwa Genroku Rakugo Shinjuu
+586,586,Houseki no Kuni
+587,587,Kamisama Hajimemashitaâ
+588,588,"Kokoro Connect: Michi Random  Special (4 eps)  Nov 2012 - Dec 2012  147,759 members"
+589,589,Mobile Suit Gundam 00
+590,590,Bleach Movie 3: Fade to Black - Kimi no Na wo Yobu
+591,591,Kantai Collection: KanColle
+592,592,Hinamatsuri
+593,593,"BlackâRock Shooter (OVA)  OVA (1 eps)  Jul 2010 - Jul 2010  146,258 members"
+594,594,Okusama ga Seitokaichou!
+595,595,Kara no Kyoukai 2: Satsujin Kousatsu (Zen)
+596,596,True Tears
+597,597,Shugo Chara!
+598,598,Mahou Sensou
+599,599,Akagami no Shirayuki-hime 2nd Season
+600,600,D.N.Angel
+601,601,Love Live! School Idol Project 2nd Season
+602,602,Sakasama no Patema
+603,603,Busou Shoujo Machiavellianism
+604,604,Black Lagoon: Roberta's Blood Trail
+605,605,Kara no Kyoukai 5: Mujun Rasen
+606,606,Natsume Yuujinchou San
+607,607,K: Missing Kings
+608,608,Planetes
+609,609,Kizumonogatari III: Reiketsu-hen
+610,610,Fuuka
+611,611,"Naruto: Shippuuden Movie 1  Movie (1 eps)  Aug 2007 - Aug 2007  142,914 members"
+612,612,Overlord III
+613,613,Ryuugajou Nanana no Maizoukin
+614,614,Tiger & Bunny
+615,615,"Seitokai Yakuindomo*  TV (13 eps)  Jan 2014 - Mar 2014  141,848 members"
+616,616,Joker Game
+617,617,Karigurashi no Arrietty
+618,618,Ajin 2nd Season
+619,619,Psycho-Pass Movie
+620,620,"Bokusatsu Tenshi Dokuro-chan  OVA (4 eps)  Mar 2005 - Sep 2005  140,531 members"
+621,621,Zero kara Hajimeru Mahou no Sho
+622,622,Fate/stay night Movie: Unlimited Blade Works
+623,623,Just Because!
+624,624,Aoharu x Kikanjuu
+625,625,"Elfen Lied: Tooriame nite Arui wa, Shoujo wa Ikani Shite Sono Shinjou ni Itatta ka? - Regenschauer  Special (1 eps)  Apr 2005 - Apr 2005  139,242 members"
+626,626,Nazo no Kanojo X
+627,627,Ano Hi Mita Hana no Namae wo Bokutachi wa Mada Shiranai. Movie
+628,628,Ranma Â½
+629,629,Asu no Yoichi!
+630,630,Kara no Kyoukai 3: Tsuukaku Zanryuu
+631,631,"Kumo no Mukou, Yakusoku no Basho"
+632,632,Karneval (TV)
+633,633,Myself; Yourself
+634,634,Detroit Metal City
+635,635,InuYasha: Kanketsu-hen
+636,636,Kuragehime
+637,637,Death Billiards
+638,638,"High School DxD OVA  OVA (2 eps)  Sep 2012 - May 2013  136,817 members"
+639,639,Natsume Yuujinchou Shi
+640,640,Seirei no Moribito
+641,641,Gankutsuou
+642,642,Terra Formars
+643,643,Gatchaman Crowds
+644,644,Chrome Shelled Regios
+645,645,Seitokai no Ichizon
+646,646,Punch Line
+647,647,Sora yori mo Tooi Basho
+648,648,Arcana Famiglia
+649,649,White Album 2
+650,650,Mimi wo Sumaseba
+651,651,Kokoro ga Sakebitagatterunda.
+652,652,SKET Dance
+653,653,Trinity Blood
+654,654,Occultic;Nine
+655,655,"Princess Lover!  TV (12 eps)  Jul 2009 - Sep 2009  133,854 members"
+656,656,Jitsu wa Watashi wa
+657,657,Robotics;Notes
+658,658,Nanbaka
+659,659,Sakurako-san no Ashimoto ni wa Shitai ga Umatteiru
+660,660,Saenai Heroine no Sodatekata â­
+661,661,Kuusen Madoushi Kouhosei no Kyoukan
+662,662,Ginga Eiyuu Densetsu
+663,663,Mononoke
+664,664,High School DxD Hero
+665,665,.hack//Sign
+666,666,Kara no Kyoukai 4: Garan no Dou
+667,667,Uta noâPrince-samaâª Maji Love 1000%
+668,668,Gunslinger Girl
+669,669,Texhnolyze
+670,670,Naruto: Shippuuden Movie 6 - Road to Ninja
+671,671,"Hajime no Ippo: New Challenger  TV (26 eps)  Jan 2009 - Jul 2009  131,092 members"
+672,672,"Ore no Imouto ga Konnani Kawaii Wake ga Nai Specials  ONA (4 eps)  Feb 2011 - May 2011  130,659 members"
+673,673,One Punch Man Specials
+674,674,Tamako Love Story
+675,675,Working!!!
+676,676,"Pokemon: Mewtwo no Gyakushuu  Movie (1 eps)  Jul 1998 - Jul 1998  130,152 members"
+677,677,Kono Subarashii Sekai ni Shukufuku wo! OVA
+678,678,Gintama': Enchousen
+679,679,"Ore ga Ojousama Gakkou ni ""Shomin Sample"" Toshite Getsâ¥Sareta Ken"
+680,680,Yuru Campâ³
+681,681,Kono Bijutsubu ni wa Mondai ga Aru!
+682,682,"Tokyo Godfathers  Movie (1 eps)  Aug 2003 - Aug 2003  129,339 members"
+683,683,Ballroom e Youkoso
+684,684,Yowamushi Pedal
+685,685,Shingeki no Bahamut: Virgin Soul
+686,686,Satsuriku no Tenshi
+687,687,Naruto: Shippuuden Movie 2 - Kizuna
+688,688,Ushio to Tora (TV)
+689,689,Danganronpa 3: The End of Kibougamine Gakuen - Zetsubou-hen
+690,690,CÂ³
+691,691,Basilisk: Kouga Ninpou Chou
+692,692,Busou Renkin
+693,693,Gochuumon wa Usagi desu ka?
+694,694,Dog Days
+695,695,Big Order (TV)
+696,696,Hitsugi no Chaika: Avenging Battle
+697,697,Tenjou Tenge
+698,698,Tonari no Seki-kun
+699,699,"Ladies versus Butlers!  TV (12 eps)  Jan 2010 - Mar 2010  127,059 members"
+700,700,"Karin  TV (24 eps)  Nov 2005 - May 2006  127,008 members"
+701,701,Minami-ke
+702,702,"Kono Naka ni Hitori, Imouto ga Iru!"
+703,703,Devil Survivor 2 The Animation
+704,704,Koi to Senkyo to Chocolate
+705,705,Imouto sae Ireba Ii.
+706,706,Owarimonogatari 2nd Season
+707,707,Nabari no Ou
+708,708,Papa no Iukoto wo Kikinasai!
+709,709,Rewrite
+710,710,Kareshi Kanojo no Jijou
+711,711,Servamp
+712,712,Last Exile
+713,713,Neon Genesis Evangelion: Death & Rebirth
+714,714,Sekaiichi Hatsukoi
+715,715,Masou Gakuen HxH
+716,716,Genshiken
+717,717,Asobi ni Iku yo!
+718,718,Kara no Kyoukai 7: Satsujin Kousatsu (Kou)
+719,719,Shoujo Shuumatsu Ryokou
+720,720,ef: A Tale of Melodies.
+721,721,Mushishi Zoku Shou 2nd Season
+722,722,Eve no Jikan
+723,723,Mnemosyne: Mnemosyne no Musume-tachi
+724,724,Neko no Ongaeshi
+725,725,"Naruto Movie 2: Dai Gekitotsu! Maboroshi no Chiteiiseki Dattebayo!  Movie (1 eps)  Aug 2005 - Aug 2005  123,280 members"
+726,726,Shinryaku! Ika Musume
+727,727,To LOVE-Ru Darkness 2nd
+728,728,Soul Eater NOT!
+729,729,Love Stage!!
+730,730,Handa-kun
+731,731,Plastic Neesan
+732,732,Hyakka Ryouran: Samurai Girls
+733,733,"Durarara!! Specials  Special (2 eps)  Aug 2010 - Feb 2011  122,923 members"
+734,734,Jinrui wa Suitai Shimashita
+735,735,Mariaâ Holic
+736,736,"Baccano! Specials  Special (3 eps)  Feb 2008 - May 2008  122,648 members"
+737,737,"Initial D First Stage  TV (26 eps)  Apr 1998 - Dec 1998  122,642 members"
+738,738,Pokemon: The Origin
+739,739,Higashi no Eden Movie I: The King of Eden
+740,740,Aoi Bungaku Series
+741,741,Digimon Tamers
+742,742,"YuâGiâOh!  TV (27 eps)  Apr 1998 - Oct 1998  121,597 members"
+743,743,Kaze Tachinu
+744,744,Gungrave
+745,745,Servant x Service
+746,746,Tokyo ESP
+747,747,Dragon Crisis!
+748,748,One Outs
+749,749,Seikoku no Dragonar
+750,750,Higurashi no Naku Koro ni Rei
+751,751,OnegaiâTeacher
+752,752,New Game!!
+753,753,Slam Dunk
+754,754,Kyoukaisenjou no Horizon
+755,755,Shuumatsu no Izetta
+756,756,Isekai Maou to Shoukan Shoujo no Dorei Majutsu
+757,757,Fate/stay night Movie: Heaven's Feel - I. Presage Flower
+758,758,Bleach Movie 4: Jigoku-hen
+759,759,Romeo x Juliet
+760,760,Hataraku Saibou
+761,761,One Piece Film: Strong World
+762,762,Mahou Shoujo MadokaâMagica Movie 1: Hajimari no Monogatari
+763,763,Kakumeiki Valvrave
+764,764,Kara no Kyoukai 6: Boukyaku Rokuon
+765,765,"Tengen Toppa Gurren Lagann Movie 2: Lagann-hen  Movie (1 eps)  Apr 2009 - Apr 2009  118,509 members"
+766,766,Gugure! Kokkuri-san
+767,767,Strike Witches
+768,768,Chihayafuru 2
+769,769,Glasslip
+770,770,"Tokyo Ghoul: ""Jack"""
+771,771,Code Geass: Boukoku no Akito 1 - Yokuryuu wa Maiorita
+772,772,Yahari Ore no Seishun Love Comedy wa Machigatteiru. OVA
+773,773,Clannad Movie
+774,774,Mahou Shoujo MadokaâMagica Movie 2: Eien no Monogatari
+775,775,Aku no Hana
+776,776,Sengoku Basara
+777,777,Naruto: Shippuuden Movie 4 - The Lost Tower
+778,778,Hoshi wo Ou Kodomo
+779,779,Mobile Suit Gundam SEED
+780,780,Love Lab
+781,781,Rail Wars!
+782,782,"Kill la Kill Specials  Special (2 eps)  Sep 2014 - Sep 2014  115,258 members"
+783,783,Utawarerumono
+784,784,One Piece Film: Z
+785,785,GJ-bu
+786,786,Another: The Other - Inga
+787,787,Fullmetal Alchemist: The Sacred Star of Milos
+788,788,Aa! Megami-sama! (TV)
+789,789,Hakuouki
+790,790,"Naruto Movie 3: Dai Koufun! Mikazuki Jima no Animaru Panikku Dattebayo!  Movie (1 eps)  Aug 2006 - Aug 2006  113,710 members"
+791,791,Grisaia no Meikyuu: Caprice no Mayu 0
+792,792,Hoshizora e Kakaru Hashi
+793,793,Diamond no Ace
+794,794,Haiyore! Nyaruko-san W
+795,795,Cross Ange: Tenshi to Ryuu no Rondo
+796,796,Berserk: Ougon Jidai-hen I - Haou no Tamago
+797,797,D.Gray-man Hallow
+798,798,"Death Note: Rewrite  Special (2 eps)  Aug 2007 - Aug 2008  112,697 members"
+799,799,Yuru Yuriâªâª
+800,800,Danna ga Nani wo Itteiru ka Wakaranai Ken 2 Sure-me
+801,801,Divine Gate
+802,802,Tsuritama
+803,803,Fairy Tail Movie 1: Houou no Miko
+804,804,Kuroshitsuji: Book of Murder
+805,805,Akaneiro ni Somaru Saka
+806,806,"Kannagi  TV (13 eps)  Oct 2008 - Dec 2008  111,415 members"
+807,807,Kimi to Boku.
+808,808,Kyoukai no Kanata Movie 2: I'll Be Here - Mirai-hen
+809,809,"Macross F  TV (25 eps)  Apr 2008 - Sep 2008  111,007 members"
+810,810,Kiniro Mosaic
+811,811,Jormungand: Perfect Order
+812,812,Flip Flappers
+813,813,"School Rumble Ni Gakki  TV (26 eps)  Apr 2006 - Sep 2006  110,655 members  Manga Store  Volume 1  $10.99 Preview"
+814,814,Shingetsutan Tsukihime
+815,815,Seiken no Blacksmith
+816,816,Ousama Game The Animation
+817,817,Junjou Romantica 2
+818,818,Pupa
+819,819,Midori no Hibi
+820,820,Ghost in the Shell 2: Innocence
+821,821,Gintama Movie 2: Kanketsu-hen - Yorozuya yo Eien Nare
+822,822,Rokujouma no Shinryakusha!?
+823,823,So Ra No Wo To
+824,824,Tennis no Ouji-sama
+825,825,"Noragami Aragoto OVA  OVA (2 eps)  Nov 2015 - Mar 2016  109,744 members  Manga Store  Volume 1  $10.99 Preview"
+826,826,Eyeshield 21
+827,827,Kobato.
+828,828,Koi wa Ameagari no You ni
+829,829,Fairy Tail OVA
+830,830,Aoki Hagane no Arpeggio: Ars Nova
+831,831,Shoujo Kakumei Utena
+832,832,Gantz 2nd Stage
+833,833,Yamato Nadeshiko Shichihengeâ¥
+834,834,Paradise Kiss
+835,835,Naruto: Shippuuden Movie 3 - Hi no Ishi wo Tsugu Mono
+836,836,Zombie-Loan
+837,837,Isekai no Seikishi Monogatari
+838,838,Hajime no Ippo: Rising
+839,839,Subete ga F ni Naru: The Perfect Insider
+840,840,DearS
+841,841,Poputepipikku
+842,842,Hoshi no Koe
+843,843,Prince of Stride: Alternative
+844,844,"High School DxD Specials  Special (6 eps)  Mar 2012 - Aug 2012  107,177 members"
+845,845,Seiren
+846,846,"Denpa-teki na Kanojo  OVA (2 eps)  Feb 2009 - Dec 2009  106,890 members"
+847,847,Kanojo ga Flag wo Oraretara
+848,848,Freezing Vibration
+849,849,Michiko to Hatchin
+850,850,YuâGiâOh!: Duel Monsters GX
+851,851,Kimi ga Nozomu Eien
+852,852,Ikkitousen
+853,853,Needless
+854,854,Uchouten Kazoku
+855,855,Little Witch Academia: Mahoujikake no Parade
+856,856,Yumekui Merry
+857,857,The iDOLM@STER
+858,858,UN-GO
+859,859,Naruto: Shippuuden Movie 5 - Blood Prison
+860,860,"Ookami to Koushinryou II: Ookami to Kohakuiro no Yuuutsu  OVA (1 eps)  Apr 2009 - Apr 2009  105,137 members"
+861,861,Mobile Suit Gundam: Iron-Blooded Orphans
+862,862,Mobile Suit Gundam Wing
+863,863,Nourin
+864,864,"Chuunibyou demo Koi ga Shitai!: Kirameki no... Slapstick Noel  Special (1 eps)  Jun 2013 - Jun 2013  104,790 members"
+865,865,"To LOVE-Ru OVA  OVA (6 eps)  Apr 2009 - Apr 2010  104,782 members"
+866,866,Selector Infected WIXOSS
+867,867,Higashi no Eden Movie II: Paradise Lost
+868,868,Arakawa Under the Bridge x Bridge
+869,869,Brave 10
+870,870,Dantalian no Shoka
+871,871,Bokurano
+872,872,Mobile Suit Gundam 00 Second Season
+873,873,Re:â£Hamatora
+874,874,Carnival Phantasm
+875,875,DRAMAtical Murder
+876,876,Casshern Sins
+877,877,"Darker than Black: Kuro no Keiyakusha - Sakura no Hana no Mankai no Shita  Special (1 eps)  Mar 2008 - Mar 2008  103,529 members"
+878,878,Knight's & Magic
+879,879,Kurenai no Buta
+880,880,"Jigoku Shoujo Futakomori  TV (26 eps)  Oct 2006 - Apr 2007  103,346 members"
+881,881,Grancrest Senki
+882,882,Berserk: Ougon Jidai-hen III - Kourin
+883,883,Choujigen Game Neptune The Animation
+884,884,Tari Tari
+885,885,Uchuu Kyoudai
+886,886,"Saikin, Imouto no Yousu ga Chotto Okashiinda ga."
+887,887,Mashiro-iro Symphony: The Color of Lovers
+888,888,Junketsu no Maria
+889,889,Nijiiro Days
+890,890,Tenkuu no Escaflowne
+891,891,Hibike! Euphonium 2
+892,892,Girls Bravo: First Season
+893,893,Omoide no Marnie
+894,894,Berserk: Ougon Jidai-hen II - Doldrey Kouryaku
+895,895,Kyousou Giga (TV)
+896,896,Osomatsu-san
+897,897,Nurarihyon no Mago: Sennen Makyou
+898,898,Pokemon: Maboroshi no Pokemon Lugia Bakutan
+899,899,Persona 5 the Animation
+900,900,Loveless
+901,901,Koyomimonogatari
+902,902,3-gatsu no Lion 2nd Season
+903,903,Ao no Kanata no Four Rhythm
+904,904,Brothers Conflict
+905,905,Dragon Ball Z Movie 14: Kami to Kami
+906,906,Princess Principal
+907,907,Saint Seiya
+908,908,Gintama.
+909,909,Tada-kun wa Koi wo Shinai
+910,910,Aria The Animation
+911,911,Little Busters!: Refrain
+912,912,Boku no Kanojo ga Majimesugiru Sho-bitch na Ken
+913,913,"Mahou Sensei Negima!  TV (26 eps)  Jan 2005 - Jun 2005  98,237 members  Manga Store  Omnibus 1  $19.99 Preview"
+914,914,Dennou Coil
+915,915,Seihou Bukyou Outlaw Star
+916,916,Himouto! Umaru-chan R
+917,917,"Bounen no Xamdou  ONA (26 eps)  Jul 2008 - Feb 2009  97,817 members"
+918,918,Date A Live: Date to Date
+919,919,Digimon Frontier
+920,920,Nogizaka Haruka no Himitsu
+921,921,Amagami SS+ Plus
+922,922,LuckyâStar: Original na Visual to Animation
+923,923,"Deadman Wonderland: Akai Knife Tsukai  OVA (1 eps)  Oct 2011 - Oct 2011  97,159 members"
+924,924,Non Non Biyori Repeat
+925,925,Sword Art Online: Alicization
+926,926,Senjou no Valkyria
+927,927,Tengen Toppa Gurren Lagann Movie 1: Gurren-hen
+928,928,Shinreigari: Ghost Hound
+929,929,Joukamachi no Dandelion
+930,930,Heavy Object
+931,931,"Steins;Gate: Kyoukaimenjou no Missing Link - Divide By Zero  Special (1 eps)  Dec 2015 - Dec 2015  96,398 members"
+932,932,"Kono Subarashii Sekai ni Shukufuku wo! 2: Kono Subarashii Geijutsu ni Shukufuku wo!  OVA (1 eps)  Jul 2017 - Jul 2017  96,341 members"
+933,933,Clockwork Planet
+934,934,Isekai Shokudou
+935,935,"Princess Tutu  TV (38 eps)  Aug 2002 - May 2003  96,114 members"
+936,936,Sabage-bu!
+937,937,Astarotte no Omocha!
+938,938,"Ore, Twintail ni Narimasu."
+939,939,Samurai Flamenco
+940,940,Sekai Seifuku: Bouryaku no Zvezda
+941,941,Shinrei Tantei Yakumo
+942,942,Mayoi Neko Overrun!
+943,943,Kokkoku
+944,944,B: The Beginning
+945,945,"Toradora!: Bentou no Gokui  Special (1 eps)  Dec 2011 - Dec 2011  94,803 members"
+946,946,Pokemon: Kesshoutou no Teiou Entei
+947,947,Itsuka Tenma no Kuro Usagi
+948,948,Denpa Kyoushi
+949,949,Final Fantasy VII: Advent Children Complete
