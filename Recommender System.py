@@ -9,8 +9,12 @@ Created on Wed Sep  5 15:36:56 2018
 import pandas as pd
 import numpy as np
 
-# info = pd.read_csv('anime_info.csv')
-ratings = pd.read_csv('ratings_final.csv', index_col = 0) # replace with full length csv file with all user score data (did in parts)
+usermap = pd.read_csv('user_id_mapping.csv', index_col = 0)
+titlemap = pd.read_csv('title_id_mapping.csv', index_col = 0)
+ratingsmap = pd.read_csv('ratings_finalv2.csv', index_col = 0)
+map1 = ratingsmap.merge(usermap, on = 'user_id')
+map2 = map1.merge(titlemap, on = 'item_id')
+ratings = map2[['user', 'titles', 'value']]
 # userRatings = ratings.pivot_table(index = ['user'], columns = ['titles'], values = 'value')
 # The above command will pivot the ratings data. Because this takes some time, it was done once and the csv file was saved. Below, it
 # read in.
