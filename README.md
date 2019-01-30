@@ -31,6 +31,10 @@ To LOVE-Ru                                           0.811816
 Charlotte                                            0.810946
 ```
 
+## Moving Forward
+
+To improve this, I would like to incorporate the findTitle function to check if the user inputted a valid anime title for the recommender system. Additionally, the user should have entered a rating score between 1 and 10. Additionally, to improve the recommendations, incorporating the show info such as genres and voice actors could show if a user tends to favor certain aspects about a show. This could be used as a factor in recommending new shows that share similar aspects with the users taste.
+
 ## Author(s)
 
 * **Dexter Luu**
