@@ -1,7 +1,7 @@
 ### Anime Recommender System
 ## This script will gather information about the anime such as the genres it falls under, the studio that produced it, the most popular
-# voice actors in it(up to 10), the year it was made, and the url on myanimelist.net. Mainly, the url section is used to scrape user
-# rating data for each specific show.
+# voice actors in it(up to 10), the year it was made, and the url on myanimelist.net. Depending on the website entries, an error may
+# occur occasionally. When that happened, the scraped data thus far was saved and the crawling was continued at the iteration it failed at.
 
 # Import libraries
 import pandas as pd
