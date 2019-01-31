@@ -18,7 +18,7 @@ def anime_info():
     year = []
     urls = pd.read_csv('urls.csv', index_col = 0)
     err_url = []
-    for links in urls['urls'][536:].values:
+    for links in urls['urls'].values:
         result = requests.get(links)
         time.sleep(1.5)
         c = result.content
