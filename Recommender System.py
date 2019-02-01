@@ -85,5 +85,24 @@ def findTitle(titles, title_str, where = 'middle'):
         matches = [x for x in titles if pattern.match(x)]
     return matches
 
-# df[['Death Note', tt]][(df['Death Note'].isnull() == False) & (df[tt].isnull() == False)]
-# df3 = df3[~df3.index.duplicated(keep='first')]
+def recommender(my_ratings, corrmat = corrMat):
+    '''
+    user_ratings is a dictionary that has the name of the show as the key and
+    the score that the user gave it as the value.
+    
+    The output is a pandas Series object that contains ten recommended shows
+    based on the users input. The scores associated are normalized and are on
+    scale between 0 and 1.
+    '''
+    myRatings = pd.Series(my_ratings)
+    recs = pd.Series()
+    for i in range(len(myRatings)):
+        rec = corrmat[myRatings.index[i]].dropna()
+        rec = rec*myRatings.iloc[i]
+        recs = recs.append(rec)
+    
+    recs = recs.groupby(recs.index).sum()
+    recs = recs/recs.max()
+    recs.drop(myRatings.index, inplace = True)
+    recs.sort_values(inplace = True, ascending = False)
+    return(recs.head(10))
