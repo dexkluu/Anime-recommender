@@ -12,7 +12,7 @@ I first got various information about the shows I was going to use which include
 
 ## Deployment
 
-To use the recommendation system, simply run the recommender function within recommender_system.py. Again, the input is a dictionary of anime titles as keys and the score you gave each title. Something to note is that the anime title must be exactly how it is within the dataset.
+To use the recommendation system, simply run the recommender function within recommender_system.py. Note that the function will read a zipped csv file so there is no need to unzip it. Also, running the function for the first time may take a few minutes because the dataset is quite large and computing the correlation matrix takes awhile because of it. Systems with less memory(<8GB) may not be able to handle it. A final note is that the anime titles must be exactly how they are within the dataset or the function will return a key error. An example of the recommendation system is shown below.
 
 ```
 myrates = {'Boku no Hero Academia':9, 'Naruto':8, 'Death Note':8, 'One Punch Man':1}
