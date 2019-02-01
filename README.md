@@ -4,7 +4,7 @@ As an anime lover, I use myanimelist.net a lot to search for shows that I may li
 
 ## Tools Used
 
-I scraped the data and did my analysis using Python version 3.6.5. The libraries used were pandas, numpy, BeautifulSoup, requests, time, and re.
+I scraped the data and did my analysis using Python version 3.6.5. The libraries used were pandas, numpy, BeautifulSoup, requests, time, and re. The Anaconda distribution should have all the tools necessary for this project. A link to the Anaconda download page can be found [here](https://www.anaconda.com/distribution/).
 
 ## The Process
 
