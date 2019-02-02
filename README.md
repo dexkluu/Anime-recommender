@@ -1,4 +1,4 @@
-# Anime Recommendations
+## Overview
 
 As an anime lover, I use myanimelist.net a lot to search for shows that I may like. However, the site does not have a very good recommendation tool. Recommended shows are based off users explicitely and manually marking shows that may be enjoyed if a user liked a certain show. In this project I scraped about 3 million user ratings spread over 950 different anime shows off of myanimelist.net. For each show, I found the top 15 most correlated animes based off the user rating data. Additionally, I created a function so one could input a dictionary of personal ratings and the function will recommend shows based on the user's input using item-based collaborative filtering.
 
