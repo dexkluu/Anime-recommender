@@ -38,3 +38,7 @@ To improve this, I would like to incorporate the findTitle function to check if 
 ## Author(s)
 
 * **Dexter Luu**
+
+<br>
+
+[Go back to the main project page](https://dexkluu.github.io/Dexter/)
