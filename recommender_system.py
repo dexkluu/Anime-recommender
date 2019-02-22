@@ -7,7 +7,7 @@ Created on Thu Jan 31 20:55:02 2019
 
 def recommender(my_ratings):
     '''
-    user_ratings is a dictionary that has the name of the show as the key and
+    my_ratings is a dictionary that has the name of the show as the key and
     the score that the user gave it as the value.
     
     The output is a pandas Series object that contains ten recommended shows
