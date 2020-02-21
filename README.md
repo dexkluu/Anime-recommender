@@ -31,6 +31,9 @@ Fate/stay night: Unlimited Blade Works 2nd Season              0.702503
 Kokoro Connect                                                 0.688047
 ```
 
+A simple app was created for my convenience. A demo of this app with only recommendations for my username(dektuh) can be found at:
+https://dexkluu.shinyapps.io/animerecommender/.
+
 ## Moving Forward
 
 To improve this, I would like to incorporate the findTitle function to check if the user inputted a valid anime title for the recommender system. Additionally, to improve the recommendations, incorporating the show info such as genres and voice actors could show if a user tends to favor certain aspects about a show. This could be used as a factor in recommending new shows that share similar aspects with the users taste.
