@@ -7,7 +7,7 @@ As an anime lover, I use myanimelist.net a lot to search for shows that I may li
 I scraped the data and did my analysis using Python version 3.6.5. The libraries used were pandas, numpy, scipy, BeautifulSoup, requests, time, re, and scrapy. The data was stored in a PostgreSQL database and an Rshiny app was made for an interface.
 
 ## Demo
-<iframe id="example1" src="https://dexkluu.shinyapps.io/animerecommender/" style="overflow:hidden;height:100%;width:100%" height="100%" width="100%"></iframe>
+<iframe id="example1" src="https://dexkluu.shinyapps.io/animerecommender/" style="overflow:hidden;height:100%;width:100%" height="100%" width="1200px"></iframe>
 
 ## Author(s)
 
