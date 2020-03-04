@@ -8,7 +8,7 @@ I scraped the data and did my analysis using Python version 3.6.5. The libraries
 
 ## Demo
 <iframe id="example1" src="https://dexkluu.shinyapps.io/animerecommender/" scrolling="no" frameborder="0"
-    style="position: relative; height: 100%; width: 100%;></iframe>
+    style="position: relative; height: 100%; width: 100%;"></iframe>
 
 ## Author(s)
 
